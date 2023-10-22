@@ -4,13 +4,13 @@ Number Guessing Game is a console-based number guessing game where the user can 
 
 ## Demonstration 
 ### Guess
-![guess-number](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/Guess.png)
+![guess-number](https://github.com/AdiiAnand/TechnoHacks/blob/main/Java%20Development/Number-Guessing-Game/pictures/Guess.png)
 
 ## ScoreBoard
-![score-board](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/scoreboard.png)
+![score-board](https://github.com/AdiiAnand/TechnoHacks/blob/main/Java%20Development/Number-Guessing-Game/pictures/scoreboard.png)
 
 ### Error
-![error](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/Error.png)
+![error](https://github.com/AdiiAnand/TechnoHacks/blob/main/Java%20Development/Number-Guessing-Game/pictures/Error.png)
 
 ### Exit
-![exit](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/exit.png)
+![exit](https://github.com/AdiiAnand/TechnoHacks/blob/main/Java%20Development/Number-Guessing-Game/pictures/exit.png)
